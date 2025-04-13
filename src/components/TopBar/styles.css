@@ -1,0 +1,11 @@
+.topbar-appBar {
+  background-color: #1976d2;
+}
+
+.topbar-title {
+  flex-grow: 1;
+}
+
+.topbar-context {
+  margin-right: 20px;
+}
