@@ -1,0 +1,20 @@
+.user-detail-card {
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.user-detail-content {
+    padding: 16px;
+}
+
+.user-detail-title {
+    margin-bottom: 16px;
+}
+
+.user-detail-text {
+    margin-bottom: 16px;
+}
+
+.user-detail-button {
+    margin-top: 16px;
+}
